@@ -1,0 +1,27 @@
+{
+  "name": "rxql",
+  "version": "0.0.1",
+  "description": "reactive query language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8balloon/rxql.git"
+  },
+  "keywords": [
+    "rx",
+    "remote",
+    "observable",
+    "query",
+    "endpoint",
+    "magic"
+  ],
+  "author": "Ethan Gregory Clark",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/8balloon/rxql/issues"
+  },
+  "homepage": "https://github.com/8balloon/rxql#readme"
+}
